@@ -1,0 +1,2 @@
+# obpic
+Obsidian Notes'Screenshot
